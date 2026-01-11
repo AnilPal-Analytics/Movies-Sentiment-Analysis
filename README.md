@@ -49,6 +49,6 @@ Movies-Sentiment-Analysis/
 └── .gitignore                     # Ignored files
 
 
-**Anil Pal**  
-Aspiring Data Scientist | Machine Learning & NLP Enthusiast
+👨‍💻 Developed By
+---Anil Pal---
 
