@@ -48,28 +48,6 @@ Movies-Sentiment-Analysis/
 ├── README.md                      # Project documentation
 └── .gitignore                     # Ignored files
 
----
-
-# 🌐 Streamlit Web Application
-
-The Streamlit app provides a clean and professional user interface.
-
-## Features
-
-- Text area for movie review input
-- Button to analyze sentiment
-- Real-time sentiment prediction
-- Clean UI with header and footer
-
-## UI Highlights
-
-- Centered layout
-- Emoji-based sentiment feedback
-- Professional footer credit
-
----
-
-## 👨‍💻 Developed By
 
 **Anil Pal**  
 Aspiring Data Scientist | Machine Learning & NLP Enthusiast
