@@ -48,6 +48,7 @@ Movies-Sentiment-Analysis/
 ├── README.md                      # Project documentation
 └── .gitignore                     # Ignored files
 
+---
 
 ## ⚙️ Model Training (Jupyter Notebook)
 
