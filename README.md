@@ -48,37 +48,21 @@ Movies-Sentiment-Analysis/
 ├── README.md                      # Project documentation
 └── .gitignore                     # Ignored files
 
-
-## ⚙️ Model Training (Jupyter Notebook)
-
-The model training process includes:
-
-- Loading and exploring the movie review dataset  
-- Text preprocessing:
-  - Lowercasing text
-  - Removing special characters
-  - Stopword removal
-- Feature extraction using **TF-IDF Vectorizer**
-- Model training using a machine learning classifier
-- Saving the trained model and vectorizer using **Pickle**
-
-### Saved Files
-- `sentiment_model.pkl`
-- `tfidf_vectorizer.pkl`
-
 ---
 
-## 🌐 Streamlit Web Application
+# 🌐 Streamlit Web Application
 
 The Streamlit app provides a clean and professional user interface.
 
-### Features
+## Features
+
 - Text area for movie review input
 - Button to analyze sentiment
 - Real-time sentiment prediction
 - Clean UI with header and footer
 
-### UI Highlights
+## UI Highlights
+
 - Centered layout
 - Emoji-based sentiment feedback
 - Professional footer credit
@@ -89,3 +73,4 @@ The Streamlit app provides a clean and professional user interface.
 
 **Anil Pal**  
 Aspiring Data Scientist | Machine Learning & NLP Enthusiast
+
